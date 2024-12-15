@@ -4,7 +4,7 @@
 Zazzify is an AI-powered translator that can convert text into various slangs, such as Pirate, The Hood, Gen Z, Shakespearean English, and more! Whether you want to speak like a pirate or use the latest Gen Z lingo, Zazzify has got you covered.
 
 ## Screenshots
-(![screenshot](https://cloud-c9i67h6sz-hack-club-bot.vercel.app/0screenshot_2024-12-15_at_12.41.43___pm.png))
+![screenshot](https://cloud-c9i67h6sz-hack-club-bot.vercel.app/0screenshot_2024-12-15_at_12.41.43___pm.png)
 ## Features
 
 - **AI-Powered Translation**: Uses advanced AI to translate text into a wide range of slangs.
