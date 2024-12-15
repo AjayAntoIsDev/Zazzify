@@ -1,0 +1,10 @@
+{
+    "api":"http://localhost:3000/api/translate/",
+    "translators":{
+        "genz":"skibidi-language-translator",
+        "hood":"ganglish-translator",
+        "pirate":"pirate-speak-translator",
+        "premiumEnglish":"fancy-english-translator",
+        "shakespeare":"shakespearean-translator"
+    }
+}
